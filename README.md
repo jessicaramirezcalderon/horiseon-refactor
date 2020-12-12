@@ -5,6 +5,8 @@ The improved formatting assists in search ranking, accessibility, as well as cle
 
 ![Demo](horiseon_refactor_demo.png)
 
+https://jessicaramirezcalderon.github.io/horiseon-refactor/
+
 ## Technologies
 
 HTML
